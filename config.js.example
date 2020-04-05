@@ -10,5 +10,8 @@ module.exports = {
 		consumerSecret: '',
 		oauthToken: '',
 		oauthTokenSecret: ''
+	},
+	user: {
+		name: 'LitoMore'
 	}
 };
