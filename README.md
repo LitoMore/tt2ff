@@ -1,6 +1,6 @@
 # tt2ff
 
-A tool to synchronize Twitter to Fanfou
+A tool to synchronize my Nintendo Switch tweets to Fanfou
 
 ## Usage
 
