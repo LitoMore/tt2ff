@@ -12,6 +12,6 @@ module.exports = {
 		oauthTokenSecret: ''
 	},
 	user: {
-		name: 'LitoMore'
+		name: 'Your Twiter Username'
 	}
 };
