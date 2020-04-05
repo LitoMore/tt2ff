@@ -22,7 +22,7 @@ $ node app.js
 ## Related
 
 - [fanfou-sdk](https://github.com/fanfoujs/fanfou-sdk-node) - Fanfou SDK for Node.js
-- [Twii](https://github.com/LitoMore/twii) - Twitter SDK for Node.jsg
+- [Twii](https://github.com/LitoMore/twii) - Twitter SDK for Node.js
 
 ## License
 
