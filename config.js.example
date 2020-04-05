@@ -1,0 +1,14 @@
+module.exports = {
+	ttConfig: {
+		consumerKey: '',
+		consumerSecret: '',
+		accessToken: '',
+		accessTokenSecret: ''
+	},
+	ffConfig: {
+		consumerKey: '',
+		consumerSecret: '',
+		oauthToken: '',
+		oauthTokenSecret: ''
+	}
+};

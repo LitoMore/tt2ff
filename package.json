@@ -1,0 +1,38 @@
+{
+  "name": "tt2ff",
+  "version": "0.0.0",
+  "description": "A tool to synchronize Twitter to Fanfou",
+  "main": "app.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LitoMore/tt2ff.git"
+  },
+  "keywords": [
+    "twitter",
+    "fanfou"
+  ],
+  "author": "LitoMore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LitoMore/tt2ff/issues"
+  },
+  "homepage": "https://github.com/LitoMore/tt2ff#readme",
+  "devDependencies": {
+    "xo": "^0.28.2"
+  },
+  "dependencies": {
+    "conf": "^6.2.1",
+    "download": "^8.0.0",
+    "fanfou-sdk": "^4.1.0",
+    "node-schedule": "^1.3.2",
+    "twii": "^0.1.1"
+  },
+  "xo": {
+    "rules": {
+      "camelcase": 0
+    }
+  }
+}
